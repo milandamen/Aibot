@@ -1,10 +1,5 @@
 import socket
 
-#channel = "#aidoru-quiz"
-#server = "chat.freenode.org"
-#nickname = "aiborg"
-#password = "AiBorGftW"
-
 
 class IRC:
     irc = socket.socket()
